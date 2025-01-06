@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDev<br><br>🌱 I’m currently learning ReactJs,OpenCV,Cloud technologies and cybersecurity<br><br>💬 Ask me about Python,MySQL,java,C,git<br><br>✨ I’m looking to collaborate on Exciting Projects!
+🔭 I’m currently working on WebDev<br><br>🌱 I’m currently learning Spring boot,Cloud technologies etc <br><br>💬 Ask me about Python,MySQL,java,C,git<br><br>✨ I’m looking to collaborate on Exciting Projects!
 
 
 ## 🌐 Socials:
